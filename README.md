@@ -31,7 +31,8 @@ Visual Studio or any C# development environment that supports Windows Forms appl
 ## Credits
 The game is inspired by the popular Flappy Bird game created by Dong Nguyen.
 
-Collaborator
+## Collaborator
 This project was a collaboration with [Sanjin Mekic](https://github.com/Sanjin22).
 
+## Download the game
 <a href="/flappy.rar" download>Click here to download</a>
